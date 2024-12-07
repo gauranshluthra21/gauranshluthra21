@@ -98,4 +98,3 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauranshluthra21&show_icons=true&locale=en" alt="gauranshluthra21" /></p>

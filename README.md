@@ -1,5 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=gauranshluthra21-ma&theme=onedark)](https://github.com/gauranshluthra21/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauranshluthra21)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center"><i>Hi 👋, I'm Gauransh Luthra</i></h1>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">

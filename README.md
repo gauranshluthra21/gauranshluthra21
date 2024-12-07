@@ -1,7 +1,7 @@
 
 <h1 align="center"><i>Hi 👋, I'm Gauransh Luthra</i></h1>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-<h3 align="center" style="font-family: 'Roboto', sans-serif;">Passionate about Data Science, exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>
+<h3 align="center" style="font-family: 'Roboto', sans-serif;">Passionate about Data Science, Exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>
 
 
 <img align = "right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

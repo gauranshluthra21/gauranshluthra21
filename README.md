@@ -4,7 +4,8 @@
 
 <!-- GIF Animation on the top right -->
 <p align="right">
-  <img src="https://via.placeholder.com/300x200.gif?text=Welcome+to+my+profile+%F0%9F%92%AF" alt="GIF Animation" />
+  <img src="![image](https://github.com/user-attachments/assets/f7033068-3fd7-45cc-a020-e7d2434a5244)
+" alt="GIF Animation" />
 </p>
 
 - 🔭 I’m currently working on **AI/ML Models** for **NLP Tasks** and **BI** for **Reporting and Dashboarding**.

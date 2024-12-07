@@ -83,11 +83,11 @@
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/> </a> 
   <!-- Add Power BI Icon here -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="40" height="40"/> </a> 
-  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Salesforce_logo.svg" alt="salesforce" width="40" height="40"/> </a> 
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" alt="salesforce" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/learning/machine-learning-ai-training.aspx" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/ML_Logo.svg" alt="ml" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Salesforce_logo.svg" alt="salesforce" width="40" height="40"/> </a> 
-  <a href="https://www.unix.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Unix_SV.svg" alt="unix" width="40" height="40"/> </a> 
+  <a href="https://www.unix.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" alt="unix" width="40" height="40"/> </a> 
 </p>
 
 

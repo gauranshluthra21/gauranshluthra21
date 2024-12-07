@@ -1,4 +1,11 @@
-<!-- Add a banner image above the greeting -->
+<div align="center">
+  <!-- Banner Image -->
+  <img src="https://path_to_your_hosted_image/github-header-image.png" alt="Banner Image" width="100%" />
+
+  <!-- GIF as part of the banner -->
+  <iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="100%" height="300" style="border: none;" frameBorder="0" allowFullScreen></iframe>
+</div>
+
 <h1 align="center">Hi 👋, I'm Gauransh Luthra</h1>
 <h3 align="center">Passionate about Data Science, exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>
 

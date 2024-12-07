@@ -88,8 +88,8 @@
   <!-- Additional tools for Data Scientist -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JqXjfo5tpiQ7&format=png&color=000000" alt="keras" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sK99Qak6yzK&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
+  <a href="[https://keras.io/](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=118f62b7b08f60941450766ab189615d)" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="keras" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" alt="hadoop" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="spark" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Zfe7q49EjkZG&format=png&color=000000" alt="git" width="40" height="40"/> </a>

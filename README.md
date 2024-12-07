@@ -91,7 +91,7 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" alt="hadoop" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="spark" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Zfe7q49EjkZG&format=png&color=000000" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="vs code" width="40" height="40"/> </a>
 </p>
 

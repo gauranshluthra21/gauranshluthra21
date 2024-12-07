@@ -86,8 +86,8 @@
   <a href="https://www.unix.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" alt="unix" width="40" height="40"/> </a> 
   
   <!-- Additional tools for Data Scientist -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=jsT6gdd7ub7z&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bkqHkLYqPxoZ&format=png&color=000000" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JqXjfo5tpiQ7&format=png&color=000000" alt="keras" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sK99Qak6yzK&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Q4XpFrGH6Rxh&format=png&color=000000" alt="numpy" width="40" height="40"/> </a>

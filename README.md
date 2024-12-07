@@ -79,7 +79,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <!-- Add Tableau Icon here -->
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tableau_Logo.svg" alt="tableau" width="40" height="40"/> </a> 
+  <!-- Add Power BI Icon here -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> 
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Salesforce_logo.svg" alt="salesforce" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/learning/machine-learning-ai-training.aspx" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/ML_Logo.svg" alt="ml" width="40" height="40"/> </a> 
@@ -87,3 +89,4 @@
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Salesforce_logo.svg" alt="salesforce" width="40" height="40"/> </a> 
   <a href="https://www.unix.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Unix_SV.svg" alt="unix" width="40" height="40"/> </a> 
 </p>
+

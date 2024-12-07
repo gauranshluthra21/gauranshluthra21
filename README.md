@@ -1,6 +1,6 @@
 <!-- Add a banner image above the greeting -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+Gauransh's+Profile" alt="Banner Image" />
+  <img src=""C:\Users\gauransh\Downloads\github-header-image.png"" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gauransh Luthra</h1>

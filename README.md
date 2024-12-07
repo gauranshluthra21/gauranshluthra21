@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Gauransh Luthra</h1>
 <h3 align="center">Passionate about Data Science, exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>
 
+
+<img align = "right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <!-- GIF Animation on the top right -->
-<p align="right">
-  <img src="![image](https://github.com/user-attachments/assets/f7033068-3fd7-45cc-a020-e7d2434a5244)
-" alt="GIF Animation" />
-</p>
 
 - 🔭 I’m currently working on **AI/ML Models** for **NLP Tasks** and **BI** for **Reporting and Dashboarding**.
 - 🌱 I’m currently learning **MLOps** Techniques and **Advanced AI Frameworks** like **Azure ML**.

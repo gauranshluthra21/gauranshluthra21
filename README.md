@@ -87,19 +87,13 @@
   
   <!-- Additional tools for Data Scientist -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b662bca9-2ff7-48e3-b57d-ee4195672c63)
-" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JqXjfo5tpiQ7&format=png&color=000000" alt="keras" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sK99Qak6yzK&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Q4XpFrGH6Rxh&format=png&color=000000" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=nIWfJbhwQm6F&format=png&color=000000" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=wINq1W2J6LgD&format=png&color=000000" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=QfokW6r5A5hS&format=png&color=000000" alt="hadoop" width="40" height="40"/> </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=fI0j8MKLHpMw&format=png&color=000000" alt="spark" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=gf8tBxx0lQm1&format=png&color=000000" alt="docker" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" alt="hadoop" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="spark" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Zfe7q49EjkZG&format=png&color=000000" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ThgBae0wCR0&format=png&color=000000" alt="vs code" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JSjz9ZknfBEq&format=png&color=000000" alt="aws" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="vs code" width="40" height="40"/> </a>
 </p>
 
 

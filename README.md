@@ -6,7 +6,10 @@
   <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+Gauransh's+Profile" alt="Banner Image" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauranshluthra21&label=Profile%20views&color=0e75b6&style=flat" alt="gauranshluthra21" /> </p>
+<!-- GIF Animation -->
+<p align="center">
+  <img src="https://via.placeholder.com/600x200.gif?text=Welcome+to+my+profile+%F0%9F%92%AF" alt="GIF Animation">
+</p>
 
 - 🔭 I’m currently working on **AI/ML Models for NLP Tasks and BI for Dashboarding and Reporting**
 
@@ -37,8 +40,14 @@
 <h3 align="left">Education:</h3>
 - 🎓 **M.Tech in AI and Data Science Engineering** from IIT Patna.
 - ✍️ **Research Papers Authored:**
-  1. **Water Quality Prediction using ML.**
-  2. **Decoding Knowledge Intelligence: The Synergy of Artificial Intelligence, Business Intelligence, and Data Science.**
+  <ul>
+    <li>
+      <img src="https://img.icons8.com/color/48/000000/1.png" width="20" alt="1"> **Water Quality Prediction using ML.**
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/48/000000/2.png" width="20" alt="2"> **Decoding Knowledge Intelligence: The Synergy of Artificial Intelligence, Business Intelligence, and Data Science.**
+    </li>
+  </ul>
 
 ---
 
@@ -50,6 +59,18 @@
 - 🇮🇳 **Attended Indian Army SSB TGC 139 Entry** (Non-technical achievement but worth mentioning for leadership and discipline).
 
 ---
+
+<h3 align="left">Profile Views:</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=gauranshluthra21&label=Profile%20views&color=0e75b6&style=flat" alt="gauranshluthra21" /> 
+</p>
+
+<h3 align="left">Trophies:</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gauranshluthra21" alt="gauranshluthra21" />
+  </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,12 +86,4 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauranshluthra21" alt="gauranshluthra21" /></a> </p>
-
-<!-- Add a GIF -->
-<p align="center">
-  <img src="https://via.placeholder.com/600x200.gif?text=Welcome+to+my+profile+%F0%9F%92%AF" alt="GIF Animation">
 </p>

@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center"><i>Hi 👋, I'm Gauransh Luthra</i></h1>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 <h3 align="center" style="font-family: 'Roboto', sans-serif;">Passionate about Data Science, Exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>

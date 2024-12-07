@@ -87,7 +87,8 @@
   
   <!-- Additional tools for Data Scientist -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b662bca9-2ff7-48e3-b57d-ee4195672c63)
+" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JqXjfo5tpiQ7&format=png&color=000000" alt="keras" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sK99Qak6yzK&format=png&color=000000" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Q4XpFrGH6Rxh&format=png&color=000000" alt="numpy" width="40" height="40"/> </a>

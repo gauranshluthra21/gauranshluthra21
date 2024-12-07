@@ -1,8 +1,4 @@
 <!-- Add a banner image above the greeting -->
-<p align="center">
-  <img src=""C:\Users\gauransh\Downloads\github-header-image.png"" alt="Banner Image" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Gauransh Luthra</h1>
 <h3 align="center">Passionate about Data Science, exploring the intersection of AI 🤖, BI 📊, and Advanced Analytics 📈</h3>
 
